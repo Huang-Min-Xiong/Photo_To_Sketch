@@ -9,3 +9,7 @@
 - cv2.divide():  影象運算處理
 - cv2.imshow():  顯示圖片
 - cv2.waitKey(0):  按下任意鍵則關閉所有視窗
+
+#### 執行結果
+![image](img/resize_img.png)
+![image](img/sketch_img.PNG)
